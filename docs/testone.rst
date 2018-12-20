@@ -24,9 +24,9 @@ DeList
 
 
 
- I want to know [6#]_ and [5#]_ 
+ I want to know [#6]_ and [#5]_ 
  
-   [5#] This step is important.
-   [6#] This step is not important.
+   [#5] This step is important.
+   [#6] This step is not important.
 
    
