@@ -15,7 +15,7 @@ DeList
   如何测试设备
   
   
- I want to know the [#2]_, and the [#1]_
+ I want to know the [#2]_, and the [#1]_ [#5]
 
  I want to know [#3]_ and [#4]_ 
 
