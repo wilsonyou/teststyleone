@@ -12,8 +12,8 @@ Contents:
    :maxdepth: 2
    
    
-   docs/manual
-   docs/generating-private-key
+   docs/testone
+   
    
 
 Indices and tables
