@@ -15,21 +15,21 @@ DeList
   如何测试设备
   
   
- I want to know the [#1]_, and the [#2]_
+ I want to know the [#]_, and the [#]_
 
 
-   .. [#1] This is the first rule.
+   .. [#] This is the first rule.
    
-   .. [#2] This is the seond rule.
+   .. [#] This is the seond rule.
    
-   .. [#3] This is the third rule.
+   .. [#] This is the third rule.
 
 
 
- I want to know [#5]_ and [#4]_ 
+ I want to know [#]_ and [#]_ 
  
-  .. [#4] This step is important.
+  .. [#] This step is important.
   
-  .. [#5] This step is not important.
+  .. [#] This step is not important.
 
    
